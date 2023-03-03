@@ -18,7 +18,7 @@ APP_ID = int(os.environ.get("APP_ID", ""))
 #Your API Hash from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "")
 
-SESSION_STRING = os.environ.get("SESSION_STRING", "BACLyDgAw7Z-zoJz84QEq6l5ERFo1urr9Xk4O0AWof_mQEy_w7kHkBrb1FVB6LgU4D1iLesU-WAgAaeSNSCoG1Pi28RYjN64nCYxyCnzz2pAQ1aYfVJMKKm4bJPJuLuf2OaozQrPLVp6Nrh7qXqvjDwaIvUcdQ7Ota1zm9pA3GklqVXu-KLHbwm4mH99WGBusgMHNsokZbpQ-k2boXIkOYCHZ2kgPdg2qsA1SycU_UfNP55EhM4ny6BL8KG8aRxztviYVg0WP46qZcN1_eXfAoVPQqTo5Wbdg_KGvw2dv1XQFkc_68G48VexsaxuUYCquxvVMxiDbaLDFETc3cqd3O-4rjZY4gAAAAByzAsDAA")
+SESSION_STRING = os.environ.get("SESSION_STRING", "")
 
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
